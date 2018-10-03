@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"mo",
+				"monitos.jpg\tw:424 h:263"
+			],
+			[
+				"proy",
+				"proyectoemprendedorUnidad2c.png\tw:1328 h:750"
+			],
+			[
+				"pr",
+				"emprendedor/"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ejemplo17",
+				"ejemplo17u4.png\tw:874 h:370"
+			],
+			[
+				"ejemplo14",
+				"ejemplo14-16u4.png\tw:873 h:912"
+			],
+			[
+				"ejemplo10",
+				"ejemplo10y11u4.png\tw:888 h:770"
+			],
+			[
+				"bo",
+				"bombaatomica.png\tw:336 h:289"
+			],
+			[
+				"cam",
+				"camionescolar.png\tw:891 h:323"
+			],
+			[
+				"se",
+				"segundaleydenewton.png\tw:454 h:126"
+			],
+			[
+				"ejemplo4u",
+				"ejemplo3y4u3.png\tw:877 h:809"
+			],
+			[
+				"i",
+				"inercia.png\tw:929 h:313"
+			],
+			[
+				"ac",
+				"acv.png\tw:134 h:70"
+			],
+			[
+				"v",
+				"vdt.png\tw:365 h:95"
+			],
+			[
+				"ejemplo15",
+				"ejemplo15u2.png\tw:856 h:392"
+			],
+			[
+				"ejemplo13",
+				"ejemplo13u2.png\tw:850 h:252"
+			],
+			[
+				"ejemplo12",
+				"ejemplo12u2.png\tw:860 h:593"
+			],
+			[
+				"ejemplo6",
+				"ejemplo6bu2.png\tw:857 h:269"
+			],
+			[
+				"ejemplo4",
+				"ejemplo4u2.png\tw:865 h:392"
+			],
+			[
+				"ejemplo2",
+				"ejemplo2y3u2.png\tw:862 h:856"
+			],
+			[
+				"ca",
+				"Carl_Friedrich_Gauss.jpg\tw:400 h:400"
+			],
+			[
+				"ejemplo28",
+				"ejemplo28b.png\tw:868 h:836"
+			],
+			[
+				"ejemplo",
+				"ejemplo26b.png\tw:876 h:326"
+			],
+			[
+				"ejemplo22",
+				"ejemplo22y23.png\tw:881 h:851"
+			],
+			[
+				"ej",
+				"ejemplo18.png\tw:881 h:353"
+			],
+			[
+				"eje",
+				"ejemplo16.png\tw:708 h:163"
+			],
+			[
+				"e",
+				"ejemplo15.png\tw:716 h:185"
+			],
+			[
+				"ejem",
+				"ejemplo14.png\tw:713 h:189"
+			],
+			[
+				"em",
+				"ejemplo11.png\tw:713 h:305"
+			],
+			[
+				"met",
+				"metropatron.png\tw:757 h:246"
+			],
+			[
+				"me",
+				"medidasconelcuerpo.png\tw:325 h:466"
+			],
+			[
+				"teatrod",
+				"teatro-de-vanguardia-1-638.jpg\tw:638 h:479"
+			],
+			[
+				"tea",
+				"teatro-romano-de-cartagena.jpg\tw:620 h:400"
+			],
+			[
+				"teat",
+				"teatro-griego-e1494624118313.jpg\tw:800 h:384"
+			],
+			[
+				"ver",
+				"versos.png\tw:896 h:215"
+			],
+			[
+				"nu",
+				"numerodeversos.png\tw:477 h:506"
+			],
+			[
+				"creacio",
+				"creacionifai.png\tw:993 h:550"
+			],
+			[
+				"mi",
+				"migueldelamadrid.jpg\tw:615 h:400"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"mur",
+				"muralistas.png\tw:981 h:431"
+			],
+			[
+				"pe",
+				"pretoleaosdemexico.jpg\tw:728 h:546"
+			],
+			[
+				"refo",
+				"reformascallesobregon.png\tw:1053 h:659"
+			],
+			[
+				"con",
+				"constitucion1917.jpg\tw:1300 h:1191"
+			],
+			[
+				"p",
+				"porfiriodiazfoto.jpg\tw:270 h:186"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"unida",
+				"unidad4/"
+			],
+			[
+				"unid",
+				"unidad4/"
+			],
+			[
+				"uni",
+				"unidad4/"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"in",
+				"ingenieriageneticados.png\tw:1056 h:378"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"imag",
+				"image9.png\tw:1076 h:467"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"te",
+				"tecnologiados.jpg\tw:473 h:333"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"paddig",
+				"padding-top\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sociologia2/Sociologia_II_C2U3.html",
+		"/C/Users/Sociologia2/Sociologia_II_C1U3.html",
+		"/C/wamp/www/anuario/aseguradora4.php",
+		"/C/Users/Sociologia2/Sociologia_II_C2U2.html",
+		"/C/Users/Sociologia2/Sociologia_II_C3U1.html",
+		"/C/Users/Sociologia2/Sociologia_II_C2U1.html",
+		"/C/Users/Sociologia2/Sociologia_II_C1U1.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiamexicoII/C2U1 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiamexicoII/C1U1 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiamexicoII/C1U2 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiamexicoII/C1U3 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiamexicoII/C1U4 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/materiaspaty/Geografia clase1.html",
+		"/C/Users/Ader/Documents/MateriasLea/materiaspaty/GEOGRAFIA.html",
+		"/C/Users/Ader/Documents/MateriasLea/ejerciciosken.html",
+		"/C/Users/Historia-Universal-Contemporanea/UNIDAD I HUC SIN IMG.html",
+		"/C/Users/Ader/Documents/MateriasLea/literaturaII/literaturaUnidad4.html",
+		"/C/Users/Ader/Documents/MateriasLea/literaturaII/literaturaUnidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/literaturaII/literaturaIIUnidad2capitulo1.html",
+		"/C/Users/Ader/Documents/MateriasLea/literaturaII/literaturaIICapitulo1unidad1.html",
+		"/C/Users/Sociologia2/maestro.html",
+		"/C/Users/Sociologia2/Sociologia_II_C1U2.html",
+		"/C/Users/Ader/Documents/MateriasLea/etica.html",
+		"/C/Users/Ader/Documents/MateriasLea/geogrqfiaclase4.html",
+		"/C/Users/Ader/Documents/MateriasLea/geografiaclase3.html",
+		"/C/Users/Ader/Documents/MateriasLea/GEOGRAFIA.html",
+		"/C/Users/miformulario/simpleform.html",
+		"/C/Users/Ader/Documents/MateriasLea/eticaII/etica.html",
+		"/C/Users/miformulario/simpleform.php",
+		"/C/Users/Ader/Documents/formularios/index.html",
+		"/C/Users/Ader/Documents/MateriasLea/index.html",
+		"/C/Users/Ader/Documents/MateriasLea/Sociologia_II_C1U2.html",
+		"/C/Users/Ader/Documents/MateriasLea/sociologiaIIClase1Unidad1.html",
+		"/C/Users/Ader/Desktop/LEAV/SocialigiaII/Unidad1/clase1.html",
+		"/C/Users/Sociologia2/Unidad2/c1u2.html",
+		"/C/Users/Ader/Documents/MateriasLea/LITERAT1COMPLETA.html",
+		"/C/Users/ETICA-2-Unidad-1/master_file_converted.html",
+		"/C/Users/ETICA-2-Unidad-1/c1u1.html",
+		"/C/Users/Ader/Documents/MateriasLea/sociologiaUnidad1.html",
+		"/C/Users/pruebados/index.html",
+		"/C/Users/HTML-Conversions/sociologia.html",
+		"/C/Users/Ader/Documents/MateriasLea/filosofiaunidad1.html",
+		"/C/Users/Ader/Documents/MateriasLea/filosofiaunidad2.html",
+		"/C/Users/Ader/Documents/MateriasLea/filosofiaunidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/filosofiaunidad4.html",
+		"/C/Users/Ader/branches/lessons/hello.html",
+		"/C/Users/Ader/Desktop/foundation-sites/package.json",
+		"/C/Users/Ader/Documents/MateriasLea/css/estilosmoodle.css",
+		"/C/Users/Ader/Documents/MateriasLea/proyectoemprendedorIUnidad1.html",
+		"/C/Users/Ader/Documents/MateriasLea/proyectoemprendedorIUnidad2.html",
+		"/C/Users/Ader/Documents/MateriasLea/proyectoemprendedorIUnidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/proyectoemprendedorIUnidad4.html",
+		"/C/Users/Ader/Documents/MateriasLea/literaturaIICapitulo1unidad1.html",
+		"/C/Users/Ader/Documents/MateriasLea/literaturaUnidad4.html",
+		"/C/Users/Ader/Documents/MateriasLea/literaturaUnidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/literaturaIIUnidad2capitulo1.html",
+		"/C/Users/Ader/Documents/MateriasLea/liderazgoemprendedorunidad1.html",
+		"/C/Users/Ader/Documents/MateriasLea/liderazgoemprendedorunidad2.html",
+		"/C/Users/Ader/Documents/MateriasLea/liderazgoemprendedorunidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/liderazgoemprendedorunidad4.html",
+		"/C/Users/Ader/Documents/MateriasLea/C1U4 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C2U4 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C2U3 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C1U3 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C3U2 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C2U2 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C1U2 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C3U1 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C2U1 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/C1U1 HII.html",
+		"/C/Users/Ader/Documents/MateriasLea/eticaunidad4.html",
+		"/C/Users/Ader/Documents/MateriasLea/eticaunidad3b.html",
+		"/C/Users/Ader/Documents/MateriasLea/eticaunidad3.html",
+		"/C/wamp/www/phplondon/anuncios/index.php",
+		"/C/wamp/www/phplondon/anuncios/aseguradora16.php",
+		"/C/wamp/www/phplondon/anuncios/institucionales.php",
+		"/C/Users/Ader/Documents/MateriasLea/eticaunidad2.html",
+		"/C/wamp/www/phplondon/anuncios/eventos.php",
+		"/C/wamp/www/phplondon/anuncios/seccioncontenido.php",
+		"/C/wamp/www/phplondon/seccioncontenido.php",
+		"/C/wamp/www/phplondon/home.php",
+		"/C/Users/Ader/Documents/MateriasLea/historiademexicocapitulo2unidad4.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiademexicoUnidad4captilo1.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiademexicocapitulo2unidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiademexicocapitulounounidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiademexicocapitulodosunidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiademexicocapitulodosunidad2.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiamexicoIICap1unidad2Porfiriato.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiamexicoIICap3unidad1.html",
+		"/C/Users/Ader/Documents/MateriasLea/historiamexicoIICap1unidad1.html",
+		"/C/Users/Ader/Documents/MateriasLea/snippets.txt",
+		"/C/Users/Ader/Documents/MateriasLea/fisicaIunidad3.html",
+		"/C/Users/Ader/Documents/MateriasLea/fisicaIUnidad4.html",
+		"/C/Users/Ader/Documents/MateriasLea/fisicaIUnidad2.html",
+		"/C/Users/Ader/Documents/MateriasLea/fisicaIUnidad1c.html",
+		"/C/Users/Ader/Documents/MateriasLea/fisicaIUnidad1b.html",
+		"/C/Users/Ader/Documents/MateriasLea/fisicaIUnidad1a.html",
+		"/C/Users/Ader/Documents/MateriasLea/css/foundation.css",
+		"/C/wamp/www/liceo/index.php",
+		"/C/Users/Ader/Documents/adertablas/investigacionColaborativa.html",
+		"/C/Users/Ader/Documents/adertablas/tablasTarea.html",
+		"/C/Users/Ader/Documents/adertablas/cuadroComparativoForo.html",
+		"/C/wamp/www/liceo/toptopbar.php",
+		"/C/wamp/www/liceo/header.php",
+		"/C/Users/Ader/Documents/MateriasLea/maestro.html",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/spanverde.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/ochenta.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/tres.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/dos.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/justify.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/uno.sublime-snippet",
+		"/C/Users/Ader/Documents/anuario/video/videos.php",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/espacio.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/doce.sublime-snippet",
+		"/C/Users/Ader/Documents/anuario/aseguradora13.php",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/inicio.sublime-snippet",
+		"/C/Users/Ader/Documents/MateriasLea/bandedmodified.html",
+		"/C/Users/Ader/Documents/MateriasLea/blogmodified.html",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/imgparr.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/dosheimg.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/User/imgydos.sublime-snippet",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Ader/Documents/MateriasLea/blog.html",
+		"/C/Users/Ader/Documents/MateriasLea/banded.html",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/Users/Ader/Documents/MateriasLea/prueba.html",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Ader/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
